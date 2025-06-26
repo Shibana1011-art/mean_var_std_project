@@ -8,6 +8,6 @@ This project calculates the mean, variance, and standard deviation of a 3x3 matr
 - Calculates standard deviation for rows, columns, and overall
 
 # How to Run
-bash
-python main.py
+       bash
+       python main.py
 
